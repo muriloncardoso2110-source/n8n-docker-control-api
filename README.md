@@ -34,13 +34,3 @@ curl -X POST -u "usuario:senha" [https://seu-n8n.com/docker/start/meu-servico](h
 Servidor Linux com Docker e Docker Compose instalados.
 
 Usuário SSH com permissão para executar comandos docker.
-
-
----
-
-### 4. Subindo os arquivos pelo site (Jeito Fácil)
-Se você não quiser usar o terminal (Git), pode fazer tudo pelo navegador:
-1.  No seu repositório no GitHub, clique em **Add file** > **Upload files**.
-2.  Arraste o `workflow.json` e o seu `README.md` (se você editou fora).
-3.  Clique em **Commit changes**.
->>>>>>> 81f1872 (feat: initial commit with n8n docker control workflow and documentation)
