@@ -1,6 +1,6 @@
 
 # n8n-docker-control-api
-=======
+
 # 🐳 n8n Docker Control API
 
 Este projeto transforma o n8n em uma API de gerenciamento para serviços Docker. Ele permite iniciar ou parar containers remotamente através de requisições HTTP seguras, executando comandos via SSH diretamente no servidor.
