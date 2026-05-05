@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # n8n-docker-control-api
 =======
 # 🐳 n8n Docker Control API
